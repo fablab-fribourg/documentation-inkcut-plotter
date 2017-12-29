@@ -1,0 +1,21 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Inkscape}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}InkCut}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Choix d'installation}{3}{section.1.3}
+\contentsline {chapter}{\numberline {2}Installation InkCut sur Windows version rapide FabLab}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Dossier \IeC {\`a} copier}{4}{section.2.1}
+\contentsline {chapter}{\numberline {3}Installation InkCut sur Linux}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}T\IeC {\'e}l\IeC {\'e}chargement}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}Installation}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}Modification}{5}{section.3.3}
+\contentsline {chapter}{\numberline {4}Utilisation InkCut}{6}{chapter.4}
+\contentsline {section}{\numberline {4.1}Mod\IeC {\`e}le de base}{6}{section.4.1}
+\contentsline {section}{\numberline {4.2}Utilisation de l'extension}{6}{section.4.2}
+\contentsline {section}{\numberline {4.3}Bug possible}{8}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Erreur : type Path}{8}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Erreur : Texte}{9}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Erreur : forme group\IeC {\'e}e}{10}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Erreur : inconnu}{11}{subsection.4.3.4}
+\contentsline {chapter}{\numberline {5}Conclusion}{12}{chapter.5}
+\vspace *{\baselineskip }
